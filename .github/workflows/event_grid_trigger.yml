@@ -3,7 +3,7 @@ name: Deploy Python project to Azure Function App
 on:
   push:
     branches:
-      - dev  # Deploy only when pushing to the 'dev' branch
+      - dev1  # Deploy only when pushing to the 'dev1' branch
 env:
   AZURE_FUNCTIONAPP_NAME: 'GlobalTaxTimeLineManagement2-Event'   # set this to your function app name on Azure
   AZURE_FUNCTIONAPP_PACKAGE_PATH: '.'       # set this to the path to your function app project, defaults to the repository root
