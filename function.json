@@ -1,0 +1,12 @@
+{
+    "bindings": [
+      {
+        "type": "eventGridTrigger",
+        "name": "azeventgrid",
+        "direction": "in"
+      }
+    ],
+    "scriptFile": "function_app.py",
+    "disabled": false
+  }
+  

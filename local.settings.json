@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=globaltaxtimelinemanage2;AccountKey=Yzl75HH7gEq92pO5wlHI6bLCkKjCDNV/jdpHn0AClQCFxJXJPfODsJELsa1IA1htOTK46UnfQcOV+AStTcZHVQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python"
+  }
+}

@@ -1,0 +1,14 @@
+azure-functions
+azure-storage-blob
+PyMuPDF
+fitz  # PyMuPDF
+pytesseract
+pdf2image
+requests
+# jsonlib-python3==1.6.1  # For handling JSON operations (optional, Python's built-in JSON might suffice)
+# base64io==2.0.0  # For encoding/decoding (optional, Python's standard base64 is often used)
+msal  # For Azure AD authentication
+openai
+protobuf
+cryptography==41.0.7
+bcrypt==3.2.0
